@@ -15,3 +15,6 @@ Used Vectorization, Stemming and pickling.<br>
 <h4>Libraries and Tools</h4>
 Python Libraries: scikit-learn, pickle, pandas, requests<br>
 Data Sources: kaggle, Movie databases like IMDb, The Movie Database (TMDb), or user-generated datasets like MovieLens
+
+<h5>Note:</h5>
+Need to create pkl file for movie and similarity to use in app.py and provide the right path.
